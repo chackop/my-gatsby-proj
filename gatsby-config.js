@@ -31,5 +31,6 @@ module.exports = {
         hostingWPCOM: false,
       },
     },
+    `gatsby-plugin-react-helmet`,
   ]
 }
